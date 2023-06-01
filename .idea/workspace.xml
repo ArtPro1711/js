@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e962915e-a6a2-4502-9643-fbd48bb632e8" name="Changes" comment="hw4">
-      <change afterPath="$PROJECT_DIR$/hw5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw5/main.js" afterDir="false" />
+    <list default="true" id="e962915e-a6a2-4502-9643-fbd48bb632e8" name="Changes" comment="hw5">
+      <change afterPath="$PROJECT_DIR$/hw6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +31,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
@@ -64,7 +65,10 @@
       <workItem from="1683728721022" duration="10602000" />
       <workItem from="1683756587005" duration="2231000" />
       <workItem from="1683832374904" duration="7637000" />
-      <workItem from="1684176148935" duration="2266000" />
+      <workItem from="1684176148935" duration="2819000" />
+      <workItem from="1684356702911" duration="4791000" />
+      <workItem from="1684751134598" duration="5815000" />
+      <workItem from="1685646933737" duration="4156000" />
     </task>
     <task id="LOCAL-00001" summary="fst">
       <created>1682969127224</created>
@@ -101,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683852439091</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hw5">
+      <created>1684185701105</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684185701105</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +135,7 @@
     <MESSAGE value="hw2" />
     <MESSAGE value="hw3" />
     <MESSAGE value="hw4" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw4" />
+    <MESSAGE value="hw5" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw5" />
   </component>
 </project>
